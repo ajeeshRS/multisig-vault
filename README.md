@@ -1,4 +1,4 @@
-# Multisig Vault (Solana / Anchor)
+# Multisig Vault 
 
 A multisig vault on Solana built using Anchor. Allows multiple owners to manage a shared vault with deposit, withdrawal proposals, approval, and execution.
 
