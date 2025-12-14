@@ -5,7 +5,7 @@ pub const MULTSIG_SEED: &str = "multisig_config";
 #[constant]
 pub const VAULT_SEED: &str = "vault";
 #[constant]
-pub const PROPOSER_SEED: &str = "vault";
+pub const PROPOSER_SEED: &str = "proposer";
 
 #[constant]
 pub const MIN_OWNERS: u8 = 3;
