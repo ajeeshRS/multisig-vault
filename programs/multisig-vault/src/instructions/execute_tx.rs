@@ -13,6 +13,7 @@ pub struct ExecuteTx<'info> {
     #[account(mut)]
     pub executor: Signer<'info>,
 
+    /// CHECK: recipient account
     #[account(mut)]
     pub recipient: AccountInfo<'info>,
 
